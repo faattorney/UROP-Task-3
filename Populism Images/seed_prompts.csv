@@ -1,0 +1,24 @@
+seed_id,parent_seed,populism_level,populism_level_numeric,tone_label,title,prompt
+1,,1/5,1,low,Social Media Graphic — Campaign Finance Reform,Generate a social media political graphic using Seed 1 style. Tone: low populist messaging. Text overlay: campaign finance reform theme.
+2,,2/5,2,low-moderate,Communities Speak on the Economy,Generate a newspaper-style illustration of community members discussing economic policy.
+3,,2/5,2,mild,Community Town Hall (2/5),Generate an image that captures the political concept of populist at a 2/5 level.
+4,,1/5,1,weak,Community Listening Tour,can you come up with a social media post (image) that would contain a 1/5 level of populist
+12,1,2/5,2,moderate,Moderated Populist Variant,Generate a social media political graphic using Seed 1 style. Tone: moderate populist. Follow-up: This is heavy-handed messaging. Try to make the populist tones less overt.
+13,1,4/5,4,heavy,Heavy Populist Variant,Generate a social media political graphic using Seed 1 style. Tone: heavy populist.
+14,1,4/5,4,heavy,Heavy Populist (No Text Overlay),Generate a social media political graphic using Seed 1 style. Tone: heavy populist. Text overlay: none.
+15,1,2/5,2,moderate,Moderate Populist Town Hall Scene,Generate a social media political graphic using Seed 1 style. Tone: moderate populist. Text overlay: none. Follow-up: Tone down the populism levels.
+16,1,1/5,1,light,Light Populist Celebration Scene,Generate a social media political graphic using Seed 1 style. Tone: light populist. Text overlay: none.
+22,2,3/5,3,amplified,Amplified Populism,"Generate an image using Seed 2 as a reference, but make the populist themes more overt."
+23,2,5/5,5,extreme,Extreme Populism,"Using Seed 2 as a reference, modify the output to include the most extreme populist views."
+24,2,1/5,1,minimal,Minimal Populism,"Using Seed 2 as a reference, generate an image with a minimal level of populist themes (most subtle while still being noticeable)."
+32,3,3/5,3,moderate,Emotionally Charged Town Hall,"Using seed 3 as a template, generate an image with 3/5 populist themes."
+33,3,4/5,4,strong,Protest-Heavy Magazine Image,"Using seed 3 as a template, generate an image with a 4/5 in populist themes."
+34,3,5/5,5,extreme,Extreme Populist Protest Scene,"Using seed 3 as a template, generate an image with 5/5 populist themes."
+35,3,1/5,1,weak,Quiet Civic Meeting,"Using seed 3 as a template, generate an image that contains a score of 1/5 for populist themes."
+36,3,0/5,0,control,Formal Technocratic Speech,"Using seed 3 as a template, generate a control image that contains a 0/5 in terms of populist themes and imagery."
+42,4,0/5,0,control,Economic Policy Briefing,Derived from Seed 4 template. Generate image with 0/5 populist themes (control).
+43,4,2/5,2,mild,Listening to Local Voices,Derived from Seed 4 template. Generate image with 2/5 populist framing.
+44,4,3/5,3,moderate,Standing with Working Families,Derived from Seed 4 template. Generate image with 3/5 moderate populist messaging.
+45,4,4/5,4,strong,Power Back to the People,Derived from Seed 4 template. Generate image with 4/5 strong populist themes.
+46,4,5/5,5,extreme,Take Our Country Back,Derived from Seed 4 template. Generate image with 5/5 extreme populist messaging.
+231,23,5/5,5,extreme,Extreme Populism (No Text Variant),"Using Seed 23 as a reference, create a similarly charged image without text."
