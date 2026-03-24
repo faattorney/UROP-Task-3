@@ -1,0 +1,73 @@
+
+Seed 1 Tree
+===========
+
+Seed 1 — Base Style
+-------------------
+Prompt:
+Generate a social media political graphic using Seed 1 style.
+
+Tone: low populist messaging
+Text overlay: campaign finance reform theme
+
+Response:
+Generated image description for a political social media graphic emphasizing campaign finance reform with a restrained populist tone. The visual style emphasizes civic imagery, democratic participation, and institutional reform rather than overt anti-elite messaging. This style became the base reference for later seeds.
+
+├── Seed 12 — Moderated Populist Variant
+│   ------------------------------------
+│   Prompt:
+│   Generate a social media political graphic using Seed 1 style.
+│
+│   Tone: moderate populist
+│
+│   Follow-up instruction:
+│   “This is heavy-handed messaging. Try to make the populist tones less overt.”
+│
+│   Response:
+│   Revised graphic concept with a moderated populist tone, focusing on everyday citizens and democratic engagement while avoiding aggressive anti-elite messaging. Intended to appear more balanced and less confrontational than heavier populist variants.
+
+├── Seed 13 — Heavy Populist Variant
+│   --------------------------------
+│   Prompt:
+│   Generate a social media political graphic using Seed 1 style.
+│
+│   Tone: heavy populist
+│
+│   Response:
+│   Graphic emphasizing strong populist framing, highlighting ordinary citizens contrasted with political or economic elites. Visual rhetoric is more emotionally charged and direct than previous seeds.
+
+├── Seed 14 — Heavy Populist (No Text Overlay)
+│   ------------------------------------------
+│   Prompt:
+│   Generate a social media political graphic using Seed 1 style.
+│
+│   Tone: heavy populist
+│   Text overlay: none
+│
+│   Response:
+│   Visual-only populist political graphic emphasizing symbolic imagery (citizens, institutions, national imagery) without textual messaging.
+
+├── Seed 15 — Moderate Populist Town Hall Scene
+│   -------------------------------------------
+│   Prompt:
+│   Generate a social media political graphic using Seed 1 style.
+│
+│   Tone: moderate populist
+│   Text overlay: none
+│
+│   Follow-up:
+│   “Tone down the populism levels.”
+│
+│   Response:
+│   Image description depicting a town hall setting with a farmer, teacher, and worker engaged in civic discussion. The U.S. Capitol is visible through a window in the background. The tone emphasizes democratic participation rather than conflict.
+
+└── Seed 16 — Light Populist Celebration Scene
+    ------------------------------------------
+    Prompt:
+    Generate a social media political graphic using Seed 1 style.
+
+    Tone: light populist
+    Text overlay: none
+
+    Response:
+    Image description showing a diverse group of Americans celebrating under a U.S. flag, including a farmer, veteran, worker, and family. Background imagery blends civic institutions and rural landscapes, emphasizing unity and national identity with minimal populist rhetoric.

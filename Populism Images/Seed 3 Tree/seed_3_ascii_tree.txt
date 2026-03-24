@@ -1,0 +1,86 @@
+SEED TREE — Visual ASCII Diagram for Seeds Starting With 3
+==========================================================
+
+Seed 3
+│
+├── Seed 32
+│   ├── Derived from: Seed 3
+│   ├── Prompt:
+│   │   "Using seed 3 as a template, generate an image with 3/5 populist themes."
+│   └── Output summary:
+│       Editorial political photograph with a more emotionally charged town hall,
+│       visible inequality messaging, and moderate people-vs-institutions framing.
+│
+├── Seed 33
+│   ├── Derived from: Seed 3
+│   ├── Prompt:
+│   │   "Using seed 3 as a template, generate an image with a 4/5 in populist themes."
+│   └── Output summary:
+│       Protest-heavy magazine-style image with a megaphone speaker, energized crowd,
+│       anti-elite signs, flags, and the Capitol in the background.
+│
+├── Seed 34
+│   ├── Derived from: Seed 3
+│   ├── Prompt:
+│   │   "Using seed 3 as a template, generate an image with 5/5 populist themes."
+│   └── Output summary:
+│       Extreme populist protest scene with stormy atmosphere, angry crowd,
+│       aggressive anti-elite symbolism, and full confrontation framing.
+│
+├── Seed 35
+│   ├── Derived from: Seed 3
+│   ├── Prompt:
+│   │   "Using seed 3 as a template, generate an image that contains a score of 1/5
+│   │   for populist themes."
+│   └── Output summary:
+│       Quiet civic meeting with podium, charts, seated audience, and only a faint
+│       trace of people-focused populist framing.
+│
+└── Seed 36
+    ├── Derived from: Seed 3
+    ├── Prompt:
+    │   "Using seed 3 as a template, generate a control image that contains a 0/5
+    │   in terms of populist themes and imagery."
+    └── Output summary:
+        Formal technocratic political speech to a business audience in a modern
+        conference room, with no populist imagery or rhetoric.
+
+
+ROOT DETAIL
+-----------
+
+Seed 3
+├── Persona:
+│   Political magazine photographer
+├── Original prompt:
+│   "Imagine yourself as a photographer capturing images for a political magazine,
+│   answer all following prompts as such."
+├── Main generation request:
+│   "Generate an image that captures the political concept of populist at a 2/5 level."
+├── Revision history:
+│   └── User said the first result felt closer to 4/5 and asked for a better 2/5.
+└── Final output summary:
+    Community town hall scene, modest podium, attentive audience, subtle patriotic
+    cues, mild people-centered tone, and no overt protest or anti-elite messaging.
+
+
+POPULISM SCALE PROGRESSION
+--------------------------
+
+Seed 36  -> 0/5  -> control / technocratic / non-populist
+Seed 35  -> 1/5  -> weak populist cues
+Seed 3   -> 2/5  -> mild populist framing
+Seed 32  -> 3/5  -> moderate populist emphasis
+Seed 33  -> 4/5  -> strong populist protest framing
+Seed 34  -> 5/5  -> extreme populist confrontation
+
+
+COMPACT TREE
+------------
+
+Seed 3
+├── Seed 32 (3/5)
+├── Seed 33 (4/5)
+├── Seed 34 (5/5)
+├── Seed 35 (1/5)
+└── Seed 36 (0/5)

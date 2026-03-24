@@ -1,0 +1,234 @@
+SEED TREE — SEED 4 BRANCH
+=============================================
+
+ROOT PERSONA
+└── Persona Instruction
+    "Imagine you are a politician looking to use populist values to get elected.
+     Answer all following prompts as such."
+
+    |
+    +-- Seed 4
+    |   ├── Purpose
+    |   |   1/5 populist social media image concept
+    |   │
+    |   ├── User Prompt
+    |   |   "can you come up with a social media post (image) that would contain a 1/5 level of populist"
+    |   │
+    |   ├── Image Concept Title
+    |   |   Community Listening Tour
+    |   │
+    |   ├── Core Scene
+    |   |   Warm, well-lit community center or library meeting room.
+    |   |   Politician stands casually beside a small round table speaking
+    |   |   with local residents at eye level.
+    |   │
+    |   ├── People Present
+    |   |   • teacher
+    |   |   • small business owner
+    |   |   • college student
+    |   │
+    |   ├── Visual Elements
+    |   |   • whiteboard: "Local Jobs & Small Business Growth"
+    |   |   • American flag in the corner
+    |   |   • coffee cups, notebooks, papers
+    |   |   • suburban street visible through window
+    |   │
+    |   ├── Tone / Body Language
+    |   |   • politician listening and taking notes
+    |   |   • calm, collaborative expressions
+    |   |   • discussion rather than a speech
+    |   │
+    |   ├── Style
+    |   |   • clean campaign photography
+    |   |   • natural lighting
+    |   |   • neutral palette: soft blues, reds, wood tones
+    |   │
+    |   ├── Caption
+    |   |   "Listening to our community."
+    |   │
+    |   └── Populism Level Rationale
+    |       Very weak populist signaling:
+    |       • emphasizes everyday citizens
+    |       • no anti-elite rhetoric
+    |       • no protest / rally framing
+    |       • collaboration and policy discussion dominate
+    |
+    └── Derived Branch from Seed 4 Template
+        |
+        +-- Seed 42
+        |   ├── Assigned Level
+        |   |   0/5 populist themes (control)
+        |   │
+        |   ├── Title
+        |   |   Economic Policy Briefing
+        |   │
+        |   ├── Scene
+        |   |   Modern conference room in a government building.
+        |   |   Politician gives a policy briefing to professionals.
+        |   │
+        |   ├── Audience
+        |   |   • economists
+        |   |   • business leaders
+        |   |   • policy advisors
+        |   │
+        |   ├── Visual Elements
+        |   |   • digital screen: "Regional Economic Indicators"
+        |   |   • city skyline through large windows
+        |   |   • laptops, tablets, bottled water, policy folders
+        |   │
+        |   ├── Body Language
+        |   |   Politician gestures toward charts while attendees take notes.
+        |   │
+        |   ├── Caption
+        |   |   "Policy solutions for a stronger economy."
+        |   │
+        |   └── Why 0/5
+        |       • technocratic setting
+        |       • elite / expert audience
+        |       • no people-vs-elite language
+        |       • no populist symbolism
+        |
+        +-- Seed 43
+        |   ├── Assigned Level
+        |   |   2/5 populist framing
+        |   │
+        |   ├── Title
+        |   |   Listening to Local Voices
+        |   │
+        |   ├── Scene
+        |   |   Community town hall meeting in a small civic center.
+        |   |   Politician stands among residents in a discussion circle.
+        |   │
+        |   ├── People Present
+        |   |   • construction worker
+        |   |   • nurse
+        |   |   • small business owner
+        |   |   • college student
+        |   │
+        |   ├── Visual Elements
+        |   |   • folding chairs in a circle
+        |   |   • community bulletin board
+        |   |   • poster: "Community Priorities"
+        |   │
+        |   ├── Body Language
+        |   |   Politician leans forward listening as a resident speaks.
+        |   │
+        |   ├── Caption
+        |   |   "Working together to solve everyday challenges."
+        |   │
+        |   └── Why 2/5
+        |       • everyday citizens centered
+        |       • community-first tone
+        |       • mild populist appeal without anti-elite rhetoric
+        |
+        +-- Seed 44
+        |   ├── Assigned Level
+        |   |   3/5 moderate populist messaging
+        |   │
+        |   ├── Title
+        |   |   Standing with Working Families
+        |   │
+        |   ├── Scene
+        |   |   Small rally outside a community center.
+        |   |   Politician addresses local residents gathered around.
+        |   │
+        |   ├── People Present
+        |   |   • factory worker
+        |   |   • teacher
+        |   |   • farmer
+        |   |   • young family with child
+        |   │
+        |   ├── Visual Elements
+        |   |   • signs: "Support Local Jobs"
+        |   |   • signs: "Strong Communities"
+        |   |   • American flags
+        |   |   • modest stage and microphone
+        |   │
+        |   ├── Body Language
+        |   |   Politician gestures confidently while addressing the crowd.
+        |   │
+        |   ├── Caption
+        |   |   "Government should work for everyday Americans."
+        |   │
+        |   └── Why 3/5
+        |       • explicit focus on working people
+        |       • people-centered governing message
+        |       • still avoids direct elite attack
+        |
+        +-- Seed 45
+        |   ├── Assigned Level
+        |   |   4/5 strong populist themes
+        |   │
+        |   ├── Title
+        |   |   Power Back to the People
+        |   │
+        |   ├── Scene
+        |   |   Large outdoor rally in a town square.
+        |   |   Politician addresses a cheering crowd from a stage.
+        |   │
+        |   ├── People Present
+        |   |   • construction workers
+        |   |   • farmers
+        |   |   • service workers
+        |   |   • teachers
+        |   │
+        |   ├── Visual Elements
+        |   |   • signs: "Put People First"
+        |   |   • signs: "Main Street Matters"
+        |   |   • many American flags
+        |   │
+        |   ├── Body Language
+        |   |   Politician raises a fist while supporters cheer.
+        |   │
+        |   ├── Caption
+        |   |   "It's time to return power to the people."
+        |   │
+        |   └── Why 4/5
+        |       • explicit populist rhetoric
+        |       • mass mobilization imagery
+        |       • strong "people-first" framing
+        |
+        └-- Seed 46
+            ├── Assigned Level
+            |   5/5 extreme populist messaging
+            │
+            ├── Title
+            |   Take Our Country Back
+            │
+            ├── Scene
+            |   Massive protest-style rally outside a government building.
+            |   Politician stands on stage with a megaphone before an energized crowd.
+            │
+            ├── People Present
+            |   • workers in uniforms
+            |   • farmers
+            |   • veterans
+            |   • families waving flags
+            │
+            ├── Visual Elements
+            |   • signs: "Power to the People"
+            |   • signs: "The People vs the Powerful"
+            |   • government building in background
+            |   • storm clouds overhead
+            |   • dense field of American flags
+            │
+            ├── Body Language
+            |   Politician points forcefully while crowd chants and raises signs.
+            │
+            ├── Caption
+            |   "The people will take back their government."
+            │
+            └── Why 5/5
+                • explicit people-vs-powerful framing
+                • protest imagery
+                • confrontational emotional tone
+                • maximal populist mobilization
+
+LEVEL PROGRESSION SUMMARY
+=============================================
+Seed 42 = 0/5  -> technocratic, expert-facing, non-populist control
+Seed 4  = 1/5  -> community listening, weak everyday-people cue
+Seed 43 = 2/5  -> local voices and everyday challenges
+Seed 44 = 3/5  -> working families + community rally framing
+Seed 45 = 4/5  -> people-first rhetoric + energized mass rally
+Seed 46 = 5/5  -> direct people-vs-powerful protest populism

@@ -1,0 +1,76 @@
+SEED TREE: POPULISM IMAGE GENERATION (ROOTED AT SEED 2)
+======================================================
+
+Seed 2 — Baseline (Subtle Populism)
+-----------------------------------
+Concept Level: Low–Moderate Populist Framing
+
+Description:
+A newspaper-style illustration titled "Communities Speak on the Economy."
+Four community members—a worker, teacher, farmer, and nurse—sit around a
+table discussing economic policy. The scene emphasizes civic dialogue
+among ordinary people. Populist themes are subtle and conveyed primarily
+through the framing of everyday citizens as participants in political
+discussion.
+
+
+├── Seed 22 — Amplified Populism
+│   -----------------------------
+│   Parent Seed: 2
+│
+│   Prompt:
+│   "Generate an image using Seed 2 as a reference, but make the populist
+│   themes more overt."
+│
+│   Description:
+│   A similar community discussion scene, but with stronger populist cues.
+│   Gestures, expressions, and visual emphasis highlight collective concern
+│   about fairness and representation. The narrative increasingly frames
+│   ordinary people as a unified political voice.
+
+
+├── Seed 23 — Extreme Populism
+│   ---------------------------
+│   Parent Seed: 2
+│
+│   Prompt:
+│   "Using Seed 2 as a reference, modify the output to include the most
+│   extreme populist views."
+│
+│   Description:
+│   A highly charged political poster-style image featuring protest crowds,
+│   raised fists, and confrontational symbolism. The composition emphasizes
+│   a stark division between "the people" and perceived elites. Emotional
+│   intensity and mass mobilization dominate the visual narrative.
+
+
+│   └── Seed 231 — Extreme Populism (No Text Variant)
+│       ----------------------------------------------
+│       Parent Seed: 23
+│
+│       Prompt:
+│       "Using Seed 23 as a reference, create a similarly charged image
+│       without text."
+│
+│       Description:
+│       The same highly charged populist imagery—crowds, protest energy,
+│       and dramatic symbolism—but with all textual slogans removed.
+│       Populist cues are conveyed entirely through visual composition
+│       and body language.
+
+
+└── Seed 24 — Minimal Populism
+    ---------------------------
+    Parent Seed: 2
+
+    Prompt:
+    "Using Seed 2 as a reference, generate an image with a minimal level
+    of populist themes (most subtle while still being noticeable)."
+
+    Description:
+    In a bright community center, six adults of varied backgrounds sit
+    around a table reviewing documents and charts. Bookshelves and a
+    small American flag appear in the background. The focus is cooperative
+    civic discussion and quiet unity rather than political mobilization.
+    Populist cues are present only in the framing of everyday citizens
+    discussing shared concerns.
